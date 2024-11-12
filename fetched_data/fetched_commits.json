@@ -1,0 +1,2537 @@
+[
+  {
+    "sha": "2632ae2b355ec16395ce0e465a98af4a38fec758",
+    "node_id": "C_kwDOMsJ0k9oAKDI2MzJhZTJiMzU1ZWMxNjM5NWNlMGU0NjVhOThhZjRhMzhmZWM3NTg",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-11-12T07:55:43Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-11-12T07:55:43Z"
+      },
+      "message": "Merge pull request #77 from YoungmanCH/feature/sts-trial-limit\n\nAdded: readme_tree.md",
+      "tree": {
+        "sha": "c8cce72394a072c5ab9e4b8217601c2e5197ce5e",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/c8cce72394a072c5ab9e4b8217601c2e5197ce5e"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/2632ae2b355ec16395ce0e465a98af4a38fec758",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnMwn/CRC1aQ7uu5UhlAAAyJ0QAHGd50ncPPHfoFXzLqUfEyVA\nHAwZblTwf7wvo5nDKCq1JRAoqvxPpUD9tccTi7Dx/ENxtQXIEep7Vi6FdeuqKX8f\ntYhHqjn11MGAtyGQDSS2/7gdEdEDv8eHcsQt1Eko+B3OC2ndwu78cbO/ml9MHFUU\nTlyAM5a0hhfHC/zUIoxMrSLKEoXC0MuLbEmCK+qaeRUp7LAmkB5wBmRWj8Fw15W8\nukl6yAOCbHyTgBsWkdWWlQxsQVYNhY+jmcxvQuHcsthCdD/vs4rTE11tdPKPkX7A\nMBySQVacLTK9HoihE7LJtYz6rGuba4/gWB6TqIKfxT6GYV/wKb8bhqzk+k+46Ux8\nHpp7H6taA0BP6CH4WFuD4NNg7b0B8pbkpHUhXtto28y313W6wdwlQQeobBe+oO6t\nAESUAGkIVWTx9KTmga3dPKn+o7q4kl+RTH6GelAk006FPnLgMbGzh+Bk5jNz5r5Q\nyLFcmmtrbOQDGGc+I3qG06wrGv4GB5o6ik8uUG/xmB0j3lRSV2dt5FQtI0b+9xa0\nuaLrlhFXBXeM8RrUXb3U2Duz9G3Y8XKXNGgEF7uZdoCrzQzPyS4uB1Hs/+RDLY/6\nLx9R8i77jPXIFjHoYPqRBGRtph/IJzbHKcg7OXTvxG75bbME1Gyq5FTn/lS3Qzl6\nQxu2fpwJgNF9phvrH4xK\n=BrmD\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree c8cce72394a072c5ab9e4b8217601c2e5197ce5e\nparent 760cf5a8b21935275063da0de4b43f06d2322eab\nparent 2c7de0e1a2943a3f80b1d7dd6a3ab83e71def045\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1731398143 +0900\ncommitter GitHub <noreply@github.com> 1731398143 +0900\n\nMerge pull request #77 from YoungmanCH/feature/sts-trial-limit\n\nAdded: readme_tree.md",
+        "verified_at": "2024-11-12T07:56:59Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/2632ae2b355ec16395ce0e465a98af4a38fec758",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/2632ae2b355ec16395ce0e465a98af4a38fec758",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/2632ae2b355ec16395ce0e465a98af4a38fec758/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "760cf5a8b21935275063da0de4b43f06d2322eab",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/760cf5a8b21935275063da0de4b43f06d2322eab",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/760cf5a8b21935275063da0de4b43f06d2322eab"
+      },
+      {
+        "sha": "2c7de0e1a2943a3f80b1d7dd6a3ab83e71def045",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/2c7de0e1a2943a3f80b1d7dd6a3ab83e71def045",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/2c7de0e1a2943a3f80b1d7dd6a3ab83e71def045"
+      }
+    ]
+  },
+  {
+    "sha": "2c7de0e1a2943a3f80b1d7dd6a3ab83e71def045",
+    "node_id": "C_kwDOMsJ0k9oAKDJjN2RlMGUxYTI5NDNhM2Y4MGIxZDdkZDZhM2FiODNlNzFkZWYwNDU",
+    "commit": {
+      "author": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-11-12T07:55:12Z"
+      },
+      "committer": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-11-12T07:55:12Z"
+      },
+      "message": "Added: readme_tree.md",
+      "tree": {
+        "sha": "c8cce72394a072c5ab9e4b8217601c2e5197ce5e",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/c8cce72394a072c5ab9e4b8217601c2e5197ce5e"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/2c7de0e1a2943a3f80b1d7dd6a3ab83e71def045",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/2c7de0e1a2943a3f80b1d7dd6a3ab83e71def045",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/2c7de0e1a2943a3f80b1d7dd6a3ab83e71def045",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/2c7de0e1a2943a3f80b1d7dd6a3ab83e71def045/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f676eb0387a74835c70feaf3b8081ff1d0543996",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f676eb0387a74835c70feaf3b8081ff1d0543996",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/f676eb0387a74835c70feaf3b8081ff1d0543996"
+      }
+    ]
+  },
+  {
+    "sha": "760cf5a8b21935275063da0de4b43f06d2322eab",
+    "node_id": "C_kwDOMsJ0k9oAKDc2MGNmNWE4YjIxOTM1Mjc1MDYzZGEwZGU0YjQzZjA2ZDIzMjJlYWI",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-11-12T05:25:16Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-11-12T05:25:16Z"
+      },
+      "message": "Merge pull request #76 from YoungmanCH/feature/sts-trial-limit\n\nFeated: utils/write_binary",
+      "tree": {
+        "sha": "622c7867f045ac08c9bc8338a0db153d664867de",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/622c7867f045ac08c9bc8338a0db153d664867de"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/760cf5a8b21935275063da0de4b43f06d2322eab",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnMua8CRC1aQ7uu5UhlAAAlqsQACdlBF0LZyaJoYAiOMtZA5ys\n0Qasn8KbCAmbYbAuSPq8IVL9H1lFDUTp92MPidarfn+tsXRE8RDJCgqb57UYEezv\neCOlrWE5mGK0T0N6mKA/3FPu/if+t8sK//vfWPR6UYrKVcov4uj8ae3yjVhGcDh5\nx0zZWYOaCfT0kKmpSOfu8UfhMhDNmjwSErdV3lnaRfEVpOpRdDofyps1n6q4cmzE\nJe1Kdd4DXIR+naNVTzyEl7+a5rtA3uWXSWgT1JDkLQfTjJE1IATVWwjpJerig0Y5\nZEWjjyq8i560SSgqQlCwSrt/a8IJoz2Vem/46z0UgOWjt9gXKG/XqUau5eVIWkHz\nYMuRpN20qL53gz/hpzwKD/vQUsEHxkWRB3IfjHfCwdH5G4T2OpR39NNNcndCoboo\nsqhRKIhqow8jFRVTtd6wS9alE7VoG43OCI3AxMLzIr8huT9YUG0yY8L/XcYFi6GM\nZ/jGEeRleU5yEAvcwmkX2RrZ8TDdsFYcoafdCvPXw84WBnd3qd6BE5CqOjh2ePhJ\nRaBZBCyHe4NHqz9zvyneSEjm+42gv0nKBbgizuN9cXoCtfYa4Q/MgvzywhR2u78f\niXm3UhrC2WKI5k/tMqMhdDitLN6uE+CZPa7BCp1YFuPcWLn/sCnamLA8MvsmrU01\n4ZehLMlRViKrhlA8TsvD\n=8EfP\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 622c7867f045ac08c9bc8338a0db153d664867de\nparent 8f4e07d4896718dff89ad204d39605095761cc1f\nparent f676eb0387a74835c70feaf3b8081ff1d0543996\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1731389116 +0900\ncommitter GitHub <noreply@github.com> 1731389116 +0900\n\nMerge pull request #76 from YoungmanCH/feature/sts-trial-limit\n\nFeated: utils/write_binary",
+        "verified_at": "2024-11-12T05:30:18Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/760cf5a8b21935275063da0de4b43f06d2322eab",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/760cf5a8b21935275063da0de4b43f06d2322eab",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/760cf5a8b21935275063da0de4b43f06d2322eab/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8f4e07d4896718dff89ad204d39605095761cc1f",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/8f4e07d4896718dff89ad204d39605095761cc1f",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/8f4e07d4896718dff89ad204d39605095761cc1f"
+      },
+      {
+        "sha": "f676eb0387a74835c70feaf3b8081ff1d0543996",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f676eb0387a74835c70feaf3b8081ff1d0543996",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/f676eb0387a74835c70feaf3b8081ff1d0543996"
+      }
+    ]
+  },
+  {
+    "sha": "f676eb0387a74835c70feaf3b8081ff1d0543996",
+    "node_id": "C_kwDOMsJ0k9oAKGY2NzZlYjAzODdhNzQ4MzVjNzBmZWFmM2I4MDgxZmYxZDA1NDM5OTY",
+    "commit": {
+      "author": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-11-12T05:24:15Z"
+      },
+      "committer": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-11-12T05:24:15Z"
+      },
+      "message": "Feated: utils/wriet_binary",
+      "tree": {
+        "sha": "622c7867f045ac08c9bc8338a0db153d664867de",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/622c7867f045ac08c9bc8338a0db153d664867de"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/f676eb0387a74835c70feaf3b8081ff1d0543996",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f676eb0387a74835c70feaf3b8081ff1d0543996",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/f676eb0387a74835c70feaf3b8081ff1d0543996",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f676eb0387a74835c70feaf3b8081ff1d0543996/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "32b3451e01823fde94891808e30aebae45854abb",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/32b3451e01823fde94891808e30aebae45854abb",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/32b3451e01823fde94891808e30aebae45854abb"
+      }
+    ]
+  },
+  {
+    "sha": "8f4e07d4896718dff89ad204d39605095761cc1f",
+    "node_id": "C_kwDOMsJ0k9oAKDhmNGUwN2Q0ODk2NzE4ZGZmODlhZDIwNGQzOTYwNTA5NTc2MWNjMWY",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-11-03T02:10:32Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-11-03T02:10:32Z"
+      },
+      "message": "Merge pull request #75 from YoungmanCH/feature/sts-trial-limit\n\nDeleted: waste of comment",
+      "tree": {
+        "sha": "d443a91e9380250f04399bd73469537c722081ad",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/d443a91e9380250f04399bd73469537c722081ad"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/8f4e07d4896718dff89ad204d39605095761cc1f",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnJtuYCRC1aQ7uu5UhlAAApsEQAENN8MgXs+tn3iude9aQdVbq\nRQ09FClX7xS4FiD6lGn8l4ht0+Ocxn5awTcSDOWJkRu9dZEE7cHLE+wmQ1Z8oIv4\nclFxWGbJuitVR2wKYTkJTJlfDNix2hPBUcLghyVCvGXiPUtR5b3UghALl7PIG5e1\nfc9hZdhgxw+mC6qyAh5bAeORZn6p5otd5g1EaIvjVR4DbLlE2zUrbaiSEatG7PSG\nt+V/ARJtA3wekUMBhlIFvgojcB2TqEEdpnpTU5j+59dAxDOE6O+r6Kfn8oS6/Ptw\nk9LQHQqRjc/3nVmMJbg0H5NmvvgRWml9zb8yiTMqMya0WiTU+PAZ6YADF6smbDc5\nV9eA3pvWykCgqGcWVASYdzG92reWFfSNjaK2wYW1pHqum3BZB+1OFMNKjDlT8G/w\n/qpDvVwV1SxAx3y/Yb1E2mxpe+YVppE9RO+EGtRHSOtt6yCFfGYCvLdxy5DltXv7\ngR4EnTgDhB3SjiO/HDQkjWfh7+flIMpw1crO2DSJILfZJewZfjmYH7G6jUoPdMgF\n4zzCF7F49bx2HugveOoeiXBw7EwjB81T0fTpG6KcqUW6QdFsWyXe6Z8EFyDoX6r0\nZ1JHaTCU/6LsB1wTpseDqRaRgVpFEWiZ5H//kViGPvhv5LJr3lxT6Y3Ag2j0tPuk\n/Hg9d5cUuZERYNYzQm/5\n=VS/S\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree d443a91e9380250f04399bd73469537c722081ad\nparent 0112851c02265103fcf17545dc52db03a3267024\nparent 32b3451e01823fde94891808e30aebae45854abb\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1730599832 +0900\ncommitter GitHub <noreply@github.com> 1730599832 +0900\n\nMerge pull request #75 from YoungmanCH/feature/sts-trial-limit\n\nDeleted: waste of comment",
+        "verified_at": "2024-11-08T13:33:15Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/8f4e07d4896718dff89ad204d39605095761cc1f",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/8f4e07d4896718dff89ad204d39605095761cc1f",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/8f4e07d4896718dff89ad204d39605095761cc1f/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0112851c02265103fcf17545dc52db03a3267024",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/0112851c02265103fcf17545dc52db03a3267024",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/0112851c02265103fcf17545dc52db03a3267024"
+      },
+      {
+        "sha": "32b3451e01823fde94891808e30aebae45854abb",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/32b3451e01823fde94891808e30aebae45854abb",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/32b3451e01823fde94891808e30aebae45854abb"
+      }
+    ]
+  },
+  {
+    "sha": "32b3451e01823fde94891808e30aebae45854abb",
+    "node_id": "C_kwDOMsJ0k9oAKDMyYjM0NTFlMDE4MjNmZGU5NDg5MTgwOGUzMGFlYmFlNDU4NTRhYmI",
+    "commit": {
+      "author": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-11-03T02:10:05Z"
+      },
+      "committer": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-11-03T02:10:05Z"
+      },
+      "message": "Deleted: waste of comment",
+      "tree": {
+        "sha": "d443a91e9380250f04399bd73469537c722081ad",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/d443a91e9380250f04399bd73469537c722081ad"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/32b3451e01823fde94891808e30aebae45854abb",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/32b3451e01823fde94891808e30aebae45854abb",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/32b3451e01823fde94891808e30aebae45854abb",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/32b3451e01823fde94891808e30aebae45854abb/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0112851c02265103fcf17545dc52db03a3267024",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/0112851c02265103fcf17545dc52db03a3267024",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/0112851c02265103fcf17545dc52db03a3267024"
+      }
+    ]
+  },
+  {
+    "sha": "0112851c02265103fcf17545dc52db03a3267024",
+    "node_id": "C_kwDOMsJ0k9oAKDAxMTI4NTFjMDIyNjUxMDNmY2YxNzU0NWRjNTJkYjAzYTMyNjcwMjQ",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-11-03T02:05:53Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-11-03T02:05:53Z"
+      },
+      "message": "Merge pull request #74 from YoungmanCH/backend/texttranser/togi\n\nBackend/texttranser/togi",
+      "tree": {
+        "sha": "a461881641ebe085ed824d8e42ef152db0e10438",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/a461881641ebe085ed824d8e42ef152db0e10438"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/0112851c02265103fcf17545dc52db03a3267024",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnJtqBCRC1aQ7uu5UhlAAAmYwQADa10g7hWgBouwVp2ahRG88E\n5OB5NgvUXlD/IfaP+vwnCeHRhl1gPyJ5P4Xxn+AApQpjUJZ/VFHhoGV6Ip6NQTds\nHomx5PYVj8K711sZEyfdyxiwEXLJsQpqGK0OsJDCcc2ZyD4PCFvM/LazeCnplYMV\nQYGodwDmnd/JHFPKbJ7h0IKsiGOk871NRUQkGEGTcZVPn5ddPvZBVH4McuuC72Ic\n909Lf6KnSeaouFwZtyoLEtEyEkttWfq9tVjj6r3HMcp+HkqONmWNWQGK319HcVgx\nFjD07F13dtytzczlOBu9TipKh/FO+SzQm0stHRpEFEMvCQxeQLJ2FLV7i0pYDVw4\njdZX9H2dSbwPuG6OwMxWOIrWgmPuLuRL0r47cUgOPCqzIgPth9cionvkTVJvsfEf\nG6y46H0FQ7ujGeu/jsUu/6W4l7Iv/CpWvnbN+lfLCmR+m2R61woCpaIVDskgk8gq\nXbpUhBwQucG2fBoDcvKMfWBXBE1akEv9rkBT45xg5/k60QWVfrOLpxI47IZbFcWb\nKwHVOMLyhyP9QgAQEgofNSaid8RNIxMI9ykg14WqpmnsVeFIdIY2kPL41Zh4bKvO\nM85NYFNjWyKYvtkUGr++VCVxmXpdo3ZmLy9lUmF/zIeipjGe3CWLlHRa4RiBmhUn\nq6J9A9UbmzGnt5XJLExO\n=dMfa\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree a461881641ebe085ed824d8e42ef152db0e10438\nparent 77b677451d11868be79e155689b30bc36247323f\nparent df6dbc0d5de37595835a294f83ea179a17456772\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1730599553 +0900\ncommitter GitHub <noreply@github.com> 1730599553 +0900\n\nMerge pull request #74 from YoungmanCH/backend/texttranser/togi\n\nBackend/texttranser/togi",
+        "verified_at": "2024-11-08T13:33:15Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/0112851c02265103fcf17545dc52db03a3267024",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/0112851c02265103fcf17545dc52db03a3267024",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/0112851c02265103fcf17545dc52db03a3267024/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "77b677451d11868be79e155689b30bc36247323f",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/77b677451d11868be79e155689b30bc36247323f",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/77b677451d11868be79e155689b30bc36247323f"
+      },
+      {
+        "sha": "df6dbc0d5de37595835a294f83ea179a17456772",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/df6dbc0d5de37595835a294f83ea179a17456772",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/df6dbc0d5de37595835a294f83ea179a17456772"
+      }
+    ]
+  },
+  {
+    "sha": "df6dbc0d5de37595835a294f83ea179a17456772",
+    "node_id": "C_kwDOMsJ0k9oAKGRmNmRiYzBkNWRlMzc1OTU4MzVhMjk0ZjgzZWExNzlhMTc0NTY3NzI",
+    "commit": {
+      "author": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-11-03T00:56:14Z"
+      },
+      "committer": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-11-03T00:56:14Z"
+      },
+      "message": "[Feat] import usable prompts",
+      "tree": {
+        "sha": "a461881641ebe085ed824d8e42ef152db0e10438",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/a461881641ebe085ed824d8e42ef152db0e10438"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/df6dbc0d5de37595835a294f83ea179a17456772",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/df6dbc0d5de37595835a294f83ea179a17456772",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/df6dbc0d5de37595835a294f83ea179a17456772",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/df6dbc0d5de37595835a294f83ea179a17456772/comments",
+    "author": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "09d253e72021338dc297bd70c22dee0af2f1e741",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/09d253e72021338dc297bd70c22dee0af2f1e741",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/09d253e72021338dc297bd70c22dee0af2f1e741"
+      }
+    ]
+  },
+  {
+    "sha": "09d253e72021338dc297bd70c22dee0af2f1e741",
+    "node_id": "C_kwDOMsJ0k9oAKDA5ZDI1M2U3MjAyMTMzOGRjMjk3YmQ3MGMyMmRlZTBhZjJmMWU3NDE",
+    "commit": {
+      "author": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-11-03T00:50:59Z"
+      },
+      "committer": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-11-03T00:50:59Z"
+      },
+      "message": "[Fix] main.py",
+      "tree": {
+        "sha": "c2a1668ac314f274d1500692c2bbb146eb05fd43",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/c2a1668ac314f274d1500692c2bbb146eb05fd43"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/09d253e72021338dc297bd70c22dee0af2f1e741",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/09d253e72021338dc297bd70c22dee0af2f1e741",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/09d253e72021338dc297bd70c22dee0af2f1e741",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/09d253e72021338dc297bd70c22dee0af2f1e741/comments",
+    "author": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7163d8c9eb707bbd438d0775f49cb9d571e21c35",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/7163d8c9eb707bbd438d0775f49cb9d571e21c35",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/7163d8c9eb707bbd438d0775f49cb9d571e21c35"
+      }
+    ]
+  },
+  {
+    "sha": "7163d8c9eb707bbd438d0775f49cb9d571e21c35",
+    "node_id": "C_kwDOMsJ0k9oAKDcxNjNkOGM5ZWI3MDdiYmQ0MzhkMDc3NWY0OWNiOWQ1NzFlMjFjMzU",
+    "commit": {
+      "author": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-11-03T00:48:31Z"
+      },
+      "committer": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-11-03T00:48:31Z"
+      },
+      "message": "[Fix] prompts.py",
+      "tree": {
+        "sha": "3cd031dc9b8af41a8e9c6e18ff1d5ab8bceb4088",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/3cd031dc9b8af41a8e9c6e18ff1d5ab8bceb4088"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/7163d8c9eb707bbd438d0775f49cb9d571e21c35",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/7163d8c9eb707bbd438d0775f49cb9d571e21c35",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/7163d8c9eb707bbd438d0775f49cb9d571e21c35",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/7163d8c9eb707bbd438d0775f49cb9d571e21c35/comments",
+    "author": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "209fc3d2fcfc8aa1bb723ff658965fbe87a7e6d0",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/209fc3d2fcfc8aa1bb723ff658965fbe87a7e6d0",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/209fc3d2fcfc8aa1bb723ff658965fbe87a7e6d0"
+      }
+    ]
+  },
+  {
+    "sha": "209fc3d2fcfc8aa1bb723ff658965fbe87a7e6d0",
+    "node_id": "C_kwDOMsJ0k9oAKDIwOWZjM2QyZmNmYzhhYTFiYjcyM2ZmNjU4OTY1ZmJlODdhN2U2ZDA",
+    "commit": {
+      "author": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-11-02T10:38:54Z"
+      },
+      "committer": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-11-02T10:38:54Z"
+      },
+      "message": "[fewat] lecture-prompt, buiness-prompt",
+      "tree": {
+        "sha": "78549bac6fa95767187d23f0d4c24a60be09f183",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/78549bac6fa95767187d23f0d4c24a60be09f183"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/209fc3d2fcfc8aa1bb723ff658965fbe87a7e6d0",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/209fc3d2fcfc8aa1bb723ff658965fbe87a7e6d0",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/209fc3d2fcfc8aa1bb723ff658965fbe87a7e6d0",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/209fc3d2fcfc8aa1bb723ff658965fbe87a7e6d0/comments",
+    "author": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "585d846b02816c23c470e39f32364bc688f32d87",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/585d846b02816c23c470e39f32364bc688f32d87",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/585d846b02816c23c470e39f32364bc688f32d87"
+      }
+    ]
+  },
+  {
+    "sha": "585d846b02816c23c470e39f32364bc688f32d87",
+    "node_id": "C_kwDOMsJ0k9oAKDU4NWQ4NDZiMDI4MTZjMjNjNDcwZTM5ZjMyMzY0YmM2ODhmMzJkODc",
+    "commit": {
+      "author": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-11-02T10:28:13Z"
+      },
+      "committer": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-11-02T10:28:13Z"
+      },
+      "message": "[feat] prompts.py",
+      "tree": {
+        "sha": "c466668277e3b553e772beddbf5f644ea30515e8",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/c466668277e3b553e772beddbf5f644ea30515e8"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/585d846b02816c23c470e39f32364bc688f32d87",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/585d846b02816c23c470e39f32364bc688f32d87",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/585d846b02816c23c470e39f32364bc688f32d87",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/585d846b02816c23c470e39f32364bc688f32d87/comments",
+    "author": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5fefe59a6d62ada17c56b038cebd3d0ecd758195",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/5fefe59a6d62ada17c56b038cebd3d0ecd758195",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/5fefe59a6d62ada17c56b038cebd3d0ecd758195"
+      }
+    ]
+  },
+  {
+    "sha": "5fefe59a6d62ada17c56b038cebd3d0ecd758195",
+    "node_id": "C_kwDOMsJ0k9oAKDVmZWZlNTlhNmQ2MmFkYTE3YzU2YjAzOGNlYmQzZDBlY2Q3NTgxOTU",
+    "commit": {
+      "author": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-10-31T06:11:04Z"
+      },
+      "committer": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-10-31T06:11:04Z"
+      },
+      "message": "[temp]",
+      "tree": {
+        "sha": "8f36299ea96a680b14983943d98c58755a0f3ba3",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/8f36299ea96a680b14983943d98c58755a0f3ba3"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/5fefe59a6d62ada17c56b038cebd3d0ecd758195",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/5fefe59a6d62ada17c56b038cebd3d0ecd758195",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/5fefe59a6d62ada17c56b038cebd3d0ecd758195",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/5fefe59a6d62ada17c56b038cebd3d0ecd758195/comments",
+    "author": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b8cdf64822c2dffbd764f7c903341cfdffae0167",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/b8cdf64822c2dffbd764f7c903341cfdffae0167",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/b8cdf64822c2dffbd764f7c903341cfdffae0167"
+      },
+      {
+        "sha": "77b677451d11868be79e155689b30bc36247323f",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/77b677451d11868be79e155689b30bc36247323f",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/77b677451d11868be79e155689b30bc36247323f"
+      }
+    ]
+  },
+  {
+    "sha": "b8cdf64822c2dffbd764f7c903341cfdffae0167",
+    "node_id": "C_kwDOMsJ0k9oAKGI4Y2RmNjQ4MjJjMmRmZmJkNzY0ZjdjOTAzMzQxY2ZkZmZhZTAxNjc",
+    "commit": {
+      "author": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-10-31T05:25:43Z"
+      },
+      "committer": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-10-31T05:25:43Z"
+      },
+      "message": "[temp]",
+      "tree": {
+        "sha": "8f36299ea96a680b14983943d98c58755a0f3ba3",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/8f36299ea96a680b14983943d98c58755a0f3ba3"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/b8cdf64822c2dffbd764f7c903341cfdffae0167",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/b8cdf64822c2dffbd764f7c903341cfdffae0167",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/b8cdf64822c2dffbd764f7c903341cfdffae0167",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/b8cdf64822c2dffbd764f7c903341cfdffae0167/comments",
+    "author": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "874a63fcd28c8895cfa56f11950251df172e9fe0",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/874a63fcd28c8895cfa56f11950251df172e9fe0",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/874a63fcd28c8895cfa56f11950251df172e9fe0"
+      },
+      {
+        "sha": "62d8567fb876a3b7f1163f5917b34304c00a73ad",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/62d8567fb876a3b7f1163f5917b34304c00a73ad",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/62d8567fb876a3b7f1163f5917b34304c00a73ad"
+      }
+    ]
+  },
+  {
+    "sha": "874a63fcd28c8895cfa56f11950251df172e9fe0",
+    "node_id": "C_kwDOMsJ0k9oAKDg3NGE2M2ZjZDI4Yzg4OTVjZmE1NmYxMTk1MDI1MWRmMTcyZTlmZTA",
+    "commit": {
+      "author": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-10-30T14:13:26Z"
+      },
+      "committer": {
+        "name": "doguto",
+        "email": "doguto110@gmail.com",
+        "date": "2024-10-30T14:13:26Z"
+      },
+      "message": "[temp]",
+      "tree": {
+        "sha": "ae3fe8de38ca8817d081dbffce366799e5aae55f",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/ae3fe8de38ca8817d081dbffce366799e5aae55f"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/874a63fcd28c8895cfa56f11950251df172e9fe0",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/874a63fcd28c8895cfa56f11950251df172e9fe0",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/874a63fcd28c8895cfa56f11950251df172e9fe0",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/874a63fcd28c8895cfa56f11950251df172e9fe0/comments",
+    "author": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "doguto",
+      "id": 131944614,
+      "node_id": "U_kgDOB91Qpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131944614?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/doguto",
+      "html_url": "https://github.com/doguto",
+      "followers_url": "https://api.github.com/users/doguto/followers",
+      "following_url": "https://api.github.com/users/doguto/following{/other_user}",
+      "gists_url": "https://api.github.com/users/doguto/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/doguto/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/doguto/subscriptions",
+      "organizations_url": "https://api.github.com/users/doguto/orgs",
+      "repos_url": "https://api.github.com/users/doguto/repos",
+      "events_url": "https://api.github.com/users/doguto/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/doguto/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "666eaf96a98761f3c72f8296ad7e88470be65f7b",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/666eaf96a98761f3c72f8296ad7e88470be65f7b",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/666eaf96a98761f3c72f8296ad7e88470be65f7b"
+      },
+      {
+        "sha": "f71fcbb555cc038e803aac22c4708f9db99e0ca9",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f71fcbb555cc038e803aac22c4708f9db99e0ca9",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/f71fcbb555cc038e803aac22c4708f9db99e0ca9"
+      }
+    ]
+  },
+  {
+    "sha": "77b677451d11868be79e155689b30bc36247323f",
+    "node_id": "C_kwDOMsJ0k9oAKDc3YjY3NzQ1MWQxMTg2OGJlNzllMTU1Njg5YjMwYmMzNjI0NzMyM2Y",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-10-30T14:12:14Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-10-30T14:12:14Z"
+      },
+      "message": "Merge pull request #73 from YoungmanCH/feature/sts-trial-limit\n\nTemporary: sts -> stt_to_chatgpt_to_tts mode",
+      "tree": {
+        "sha": "cb2ac63051db4fc5aa3e5fd2db451b9a03bb27a0",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/cb2ac63051db4fc5aa3e5fd2db451b9a03bb27a0"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/77b677451d11868be79e155689b30bc36247323f",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnIj6+CRC1aQ7uu5UhlAAAaUYQAC5VItleBzJ3T2uPLJW178cG\nXh0EVDo8Awo0/2X1sHFteJS4Ltu2ts9pXmcQc02mve8VZV7EOHygIJoOAI7fIJbc\nTKnpS2YtkE7f2v/PpES1b9vX/j02xbcKRy/UCCgl602keRS3TghvbE5njmJtVGKh\nO133V0ptzslA/scnqOZk2p7V8KzGh97Uz4mJ8X5VXfrvfASSQAztBDo0tqIiJdxR\ndIJdXRWg58kh1xmsXSjIA9YtW9mbhDGN55IrY84PS6Org6929wqVo5EW+f4I4Icl\nURGh3IZSEFalG7V7nEKNlXBujkNX2BoaUxzq3dGKTcV9HEpcMSLEdjJ9bXLAv61H\nCd3by8cXDaGQG1R6lmxvrv6VWVSKDSR11K1YbiO0HGbrP1FARlxBX6USNqD9HcDJ\nox6qET/Dqx/fs3vMwpBqPc/0Q0hvYjBn5H3Pz34znpZAD60TRhXrymp1Mn5hjoWB\nZpxi9liY+Ny5JfyzNrg8XEWJiYkYYgdcmR9EpF57COez27gqJY1S1HHx/Sfu8w45\nkyYsHwjdXhsitGBg7lwEg5PBnhvigsFZ8gBmWtgSQ/w2Ie+1gCglIxn7Mo4Y6Ppl\nebagoS0b1knHqEg9xLaBqOIXEzey2hNgc3VZH+b5lRJwM7qqNeiHJTnpm8GkL6VK\nGrTMO6bErmtOkjhEZstI\n=BcfH\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree cb2ac63051db4fc5aa3e5fd2db451b9a03bb27a0\nparent f71fcbb555cc038e803aac22c4708f9db99e0ca9\nparent 62d8567fb876a3b7f1163f5917b34304c00a73ad\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1730297534 +0900\ncommitter GitHub <noreply@github.com> 1730297534 +0900\n\nMerge pull request #73 from YoungmanCH/feature/sts-trial-limit\n\nTemporary: sts -> stt_to_chatgpt_to_tts mode",
+        "verified_at": "2024-11-12T06:37:00Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/77b677451d11868be79e155689b30bc36247323f",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/77b677451d11868be79e155689b30bc36247323f",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/77b677451d11868be79e155689b30bc36247323f/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f71fcbb555cc038e803aac22c4708f9db99e0ca9",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f71fcbb555cc038e803aac22c4708f9db99e0ca9",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/f71fcbb555cc038e803aac22c4708f9db99e0ca9"
+      },
+      {
+        "sha": "62d8567fb876a3b7f1163f5917b34304c00a73ad",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/62d8567fb876a3b7f1163f5917b34304c00a73ad",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/62d8567fb876a3b7f1163f5917b34304c00a73ad"
+      }
+    ]
+  },
+  {
+    "sha": "62d8567fb876a3b7f1163f5917b34304c00a73ad",
+    "node_id": "C_kwDOMsJ0k9oAKDYyZDg1NjdmYjg3NmEzYjdmMTE2M2Y1OTE3YjM0MzA0YzAwYTczYWQ",
+    "commit": {
+      "author": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-30T14:11:45Z"
+      },
+      "committer": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-30T14:11:45Z"
+      },
+      "message": "Temporary: sts -> stt_to_chatgpt_to_tts mode",
+      "tree": {
+        "sha": "cb2ac63051db4fc5aa3e5fd2db451b9a03bb27a0",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/cb2ac63051db4fc5aa3e5fd2db451b9a03bb27a0"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/62d8567fb876a3b7f1163f5917b34304c00a73ad",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/62d8567fb876a3b7f1163f5917b34304c00a73ad",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/62d8567fb876a3b7f1163f5917b34304c00a73ad",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/62d8567fb876a3b7f1163f5917b34304c00a73ad/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f71fcbb555cc038e803aac22c4708f9db99e0ca9",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f71fcbb555cc038e803aac22c4708f9db99e0ca9",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/f71fcbb555cc038e803aac22c4708f9db99e0ca9"
+      }
+    ]
+  },
+  {
+    "sha": "f71fcbb555cc038e803aac22c4708f9db99e0ca9",
+    "node_id": "C_kwDOMsJ0k9oAKGY3MWZjYmI1NTVjYzAzOGU4MDNhYWMyMmM0NzA4ZjlkYjk5ZTBjYTk",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-10-28T06:20:54Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-10-28T06:20:54Z"
+      },
+      "message": "Merge pull request #72 from YoungmanCH/frontend/pages/home/tomoki\n\nRefactor responsive styles for mobile devices",
+      "tree": {
+        "sha": "c6ab35853da5ebb74274cba327e00b8743763398",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/c6ab35853da5ebb74274cba327e00b8743763398"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/f71fcbb555cc038e803aac22c4708f9db99e0ca9",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnHy1GCRC1aQ7uu5UhlAAAvXgQAD3BWaWnyPCTaIWqX4xseann\nEGh3XS00pC+BlxFcst/eOSc0E4iVC46eNJNaDlPjupimLvqirNvJj6WOnGZoazKm\nvEXMiUps8HYsBOdSXIvHSQLcJvXDDw7gNKOr9yT7psDpj00hbmyxu8jXBGc2Nhrq\nlHlzXNoIKDqXGqpcNIL29NSIHmdcMSD1Wgb4cx9cy1AP9IJoqHOvvH2Nj+vOEIr4\nLmQGmrj5gqbK5yIXVIAejaZbcCky6AM0w/6qgg07GKZKN3aEL0ZEqghftBz29QRF\nF1cKbu+kHkLi8NVb2ejD1L4p8NBpStDvFgjPPlDavASJP0OnfB9EQaOVrlF787aW\nK3VdzGnGAtZI/o+qr5KlgeRwyTrHMcjnlHIfF7ot9rQ4JHDNOZq9r20KKsCJW4Ox\n4SR06PC/gAQvs/6TqQEsC2G41ES8qOxJb7WYEwfbvzRwhPDdkw9buUMgloD/s6eS\npTgw/xz0tQ9+rzGXuKK2HJUchUQM85AEXmtWsVrOxGUbpDsMzRgdnslm52cZaCUG\n7UUZBADcxCliDUa/f8zeZHLX/++1p2V2+9Yyi57kjNQI2Kot8/hXLVoHGTUItU9R\nKb0U7kz4AkSloU3ypAvNUSIlYCCu7+IKTgFFOxGpz9h7mOF22ZUonKcmDetke2+P\nVHFEvthQV399Y0t+SBWf\n=TwBX\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree c6ab35853da5ebb74274cba327e00b8743763398\nparent 67d07f4a8d5cd75e2542657fb70584c779e6cd58\nparent f9ed80beb64df249978c89fda1aca977aa1f5258\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1730096454 +0900\ncommitter GitHub <noreply@github.com> 1730096454 +0900\n\nMerge pull request #72 from YoungmanCH/frontend/pages/home/tomoki\n\nRefactor responsive styles for mobile devices",
+        "verified_at": "2024-11-12T06:37:00Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f71fcbb555cc038e803aac22c4708f9db99e0ca9",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/f71fcbb555cc038e803aac22c4708f9db99e0ca9",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f71fcbb555cc038e803aac22c4708f9db99e0ca9/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "67d07f4a8d5cd75e2542657fb70584c779e6cd58",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/67d07f4a8d5cd75e2542657fb70584c779e6cd58",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/67d07f4a8d5cd75e2542657fb70584c779e6cd58"
+      },
+      {
+        "sha": "f9ed80beb64df249978c89fda1aca977aa1f5258",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f9ed80beb64df249978c89fda1aca977aa1f5258",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/f9ed80beb64df249978c89fda1aca977aa1f5258"
+      }
+    ]
+  },
+  {
+    "sha": "67d07f4a8d5cd75e2542657fb70584c779e6cd58",
+    "node_id": "C_kwDOMsJ0k9oAKDY3ZDA3ZjRhOGQ1Y2Q3NWUyNTQyNjU3ZmI3MDU4NGM3NzllNmNkNTg",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-10-28T06:18:43Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-10-28T06:18:43Z"
+      },
+      "message": "Merge pull request #71 from YoungmanCH/feature/sts-trial-limit\n\nUpdated: microservices/file",
+      "tree": {
+        "sha": "ecc902cdb529c2f9266e1f26b4aeb5b4bee9ee87",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/ecc902cdb529c2f9266e1f26b4aeb5b4bee9ee87"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/67d07f4a8d5cd75e2542657fb70584c779e6cd58",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnHyzDCRC1aQ7uu5UhlAAAeYsQAE1zOhtd20r1/k1lzV3LMhpj\nvyyOQPNA1Gps6gPRSWr3oNPScjYqtdi3OrrUSmerv7Ars4sVQOgvq/3NhNXmGY+L\nl1xRf06qEXSauK0Iaojgo5/iRkAacsqJdf+VqfatpbJkG5AANBXacCevws7JZ3Ac\nGXzeCSpZn0CI0m4ZX+cJzDzqbyJNv0w9qYkctgjYe68vLTB1nOr1QWsJoNeo9WcH\nTbzzZPkAH4S0AQg0ZbOiGjPrYyH9RwBuSYJjCc0b+5/4NTO0O9tArSPkFlid6u4f\n/+ZFXkJZI8Eg+oVXDGFBCRSoAhDbLcC4jvF65URVyDubVE8QunoJzpLTsAeo7R2l\n1O7/1iaS2+AQmmQUBDvJh/hYb52lXovNdbcIdM6C8hou9wHKEm19p8Ux6uwOCkvm\ny3VVQiIoDs2tWoAgjw2xIDkK3qJXmZQ1iB56MmvEwp6+uHMTSGrfNbcYQxxfM2XK\nTp34mhQVhnE3isqDMaf8wDJ4B51ZIDXFEWAUgpYsk33aE0UKs+G8K6Sqz0GYt3NQ\ngrQMR0mEGTQj/MoifmK6XzrcGQmF03pRbNynzLmHrGR4JfdfrWWsNeacC+eEtB1X\nPQJsNsZ6F39cVsum3XsuOtL/IrVE7p+fhrbFrlUpanVM3ukNaKve8pNufmFKH8y5\nNe+4jMBnv1YC52ssbvc0\n=tmNZ\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree ecc902cdb529c2f9266e1f26b4aeb5b4bee9ee87\nparent 30aefe21309baf037fa7341c6797cbfb79932350\nparent daca1bb526c87a16b772856e14a7e5ca7cd2ede6\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1730096323 +0900\ncommitter GitHub <noreply@github.com> 1730096323 +0900\n\nMerge pull request #71 from YoungmanCH/feature/sts-trial-limit\n\nUpdated: microservices/file",
+        "verified_at": "2024-11-12T06:37:00Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/67d07f4a8d5cd75e2542657fb70584c779e6cd58",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/67d07f4a8d5cd75e2542657fb70584c779e6cd58",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/67d07f4a8d5cd75e2542657fb70584c779e6cd58/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "30aefe21309baf037fa7341c6797cbfb79932350",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/30aefe21309baf037fa7341c6797cbfb79932350",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/30aefe21309baf037fa7341c6797cbfb79932350"
+      },
+      {
+        "sha": "daca1bb526c87a16b772856e14a7e5ca7cd2ede6",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/daca1bb526c87a16b772856e14a7e5ca7cd2ede6",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/daca1bb526c87a16b772856e14a7e5ca7cd2ede6"
+      }
+    ]
+  },
+  {
+    "sha": "daca1bb526c87a16b772856e14a7e5ca7cd2ede6",
+    "node_id": "C_kwDOMsJ0k9oAKGRhY2ExYmI1MjZjODdhMTZiNzcyODU2ZTE0YTdlNWNhN2NkMmVkZTY",
+    "commit": {
+      "author": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-28T06:18:13Z"
+      },
+      "committer": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-28T06:18:13Z"
+      },
+      "message": "Updated: microservices/file",
+      "tree": {
+        "sha": "ecc902cdb529c2f9266e1f26b4aeb5b4bee9ee87",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/ecc902cdb529c2f9266e1f26b4aeb5b4bee9ee87"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/daca1bb526c87a16b772856e14a7e5ca7cd2ede6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/daca1bb526c87a16b772856e14a7e5ca7cd2ede6",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/daca1bb526c87a16b772856e14a7e5ca7cd2ede6",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/daca1bb526c87a16b772856e14a7e5ca7cd2ede6/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "62991bf0c167292d8c34f1040ce2e04a98e8c0f4",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/62991bf0c167292d8c34f1040ce2e04a98e8c0f4",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/62991bf0c167292d8c34f1040ce2e04a98e8c0f4"
+      }
+    ]
+  },
+  {
+    "sha": "f9ed80beb64df249978c89fda1aca977aa1f5258",
+    "node_id": "C_kwDOMsJ0k9oAKGY5ZWQ4MGJlYjY0ZGYyNDk5NzhjODlmZGExYWNhOTc3YWExZjUyNTg",
+    "commit": {
+      "author": {
+        "name": "Tomoki Inoue",
+        "email": "prometheus4e7e0811@icloud.com",
+        "date": "2024-10-28T05:17:32Z"
+      },
+      "committer": {
+        "name": "Tomoki Inoue",
+        "email": "prometheus4e7e0811@icloud.com",
+        "date": "2024-10-28T05:17:32Z"
+      },
+      "message": "Refactor responsive styles for mobile devices",
+      "tree": {
+        "sha": "c0b506e2ef46bf9de392539cd73d7d9bff09a5f6",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/c0b506e2ef46bf9de392539cd73d7d9bff09a5f6"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/f9ed80beb64df249978c89fda1aca977aa1f5258",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f9ed80beb64df249978c89fda1aca977aa1f5258",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/f9ed80beb64df249978c89fda1aca977aa1f5258",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/f9ed80beb64df249978c89fda1aca977aa1f5258/comments",
+    "author": {
+      "login": "Tomoki4e7e",
+      "id": 133108362,
+      "node_id": "U_kgDOB-8Sig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133108362?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Tomoki4e7e",
+      "html_url": "https://github.com/Tomoki4e7e",
+      "followers_url": "https://api.github.com/users/Tomoki4e7e/followers",
+      "following_url": "https://api.github.com/users/Tomoki4e7e/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Tomoki4e7e/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Tomoki4e7e/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Tomoki4e7e/subscriptions",
+      "organizations_url": "https://api.github.com/users/Tomoki4e7e/orgs",
+      "repos_url": "https://api.github.com/users/Tomoki4e7e/repos",
+      "events_url": "https://api.github.com/users/Tomoki4e7e/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Tomoki4e7e/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Tomoki4e7e",
+      "id": 133108362,
+      "node_id": "U_kgDOB-8Sig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133108362?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Tomoki4e7e",
+      "html_url": "https://github.com/Tomoki4e7e",
+      "followers_url": "https://api.github.com/users/Tomoki4e7e/followers",
+      "following_url": "https://api.github.com/users/Tomoki4e7e/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Tomoki4e7e/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Tomoki4e7e/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Tomoki4e7e/subscriptions",
+      "organizations_url": "https://api.github.com/users/Tomoki4e7e/orgs",
+      "repos_url": "https://api.github.com/users/Tomoki4e7e/repos",
+      "events_url": "https://api.github.com/users/Tomoki4e7e/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Tomoki4e7e/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "30aefe21309baf037fa7341c6797cbfb79932350",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/30aefe21309baf037fa7341c6797cbfb79932350",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/30aefe21309baf037fa7341c6797cbfb79932350"
+      }
+    ]
+  },
+  {
+    "sha": "30aefe21309baf037fa7341c6797cbfb79932350",
+    "node_id": "C_kwDOMsJ0k9oAKDMwYWVmZTIxMzA5YmFmMDM3ZmE3MzQxYzY3OTdjYmZiNzk5MzIzNTA",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-10-25T18:17:05Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-10-25T18:17:05Z"
+      },
+      "message": "Merge pull request #70 from YoungmanCH/feature/sts-trial-limit\n\nModified: mode-selection of css",
+      "tree": {
+        "sha": "413d9419d317993de792684995e4b519e3f8b540",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/413d9419d317993de792684995e4b519e3f8b540"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/30aefe21309baf037fa7341c6797cbfb79932350",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnG+ChCRC1aQ7uu5UhlAAAa50QAFVwC/gvJlDSjrVadG/HeN95\njmxNVHbgC+3sxk7t+V1TO271wyK5Mgiub6QZtbWa3cCagT/Fz78uwLmNxQctvA+b\n8D8Z2r3PeMUqLKKNG+ztElVMj8c2tPDPUNrYFb9cJGxo93ddweEKTzx978FBnohp\nvzt4oxsgVt9EZ6rODWV7b+j2ZCyGhwhtXN2FydUTGXky51S+RE9kPMH0x7LrkG1S\njOG8sablc6iH7d2cLE42i8MhTIXIp3DkdC4jYLd/SEWVwQvtRn1MkVPaw+J/4zMY\n5Yl/9Cf8lkt6bUm4GITyEKMhjrXso0T8pQ5XS4Q0rIB+h6uvz8hRdOCAnE2AU2Wf\nbTzrRzj9lgeKA0SSGvFWyzQm7l9ZVPDy7XJt+K17rYVKVvoaTNHWfu+Lj8BuXJlh\nHWTmJJzoWDQJuJ8WXuW1J/DeRDVrR2ExmxECzDk6UJrYtP+N1CLnMtC07Oq+c8s8\nRbAxp4pDQajmQsjD6gHA2nUGMC4e1MVoeB/z1Uk7vigD5GXuQGHHct7VEgyACiDq\n/2A99hl7gY4rQ3WR5nJE76N2pQ7V97PB7++bHGtN5cdu/dnqY5tPQi1vH20s4S6B\n6qk9pbL7TIqmDmknUIwlohSDjh9UyZIdAqvDD8riLGy+DX1QT9wvPG6mTvDZSyXm\nSInsPVUMM+xIAvEAWnri\n=MILM\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 413d9419d317993de792684995e4b519e3f8b540\nparent 093e71b8878be94481bd5cefb0f81a4170144ee1\nparent 62991bf0c167292d8c34f1040ce2e04a98e8c0f4\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1729880225 +0900\ncommitter GitHub <noreply@github.com> 1729880225 +0900\n\nMerge pull request #70 from YoungmanCH/feature/sts-trial-limit\n\nModified: mode-selection of css",
+        "verified_at": "2024-11-12T06:37:00Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/30aefe21309baf037fa7341c6797cbfb79932350",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/30aefe21309baf037fa7341c6797cbfb79932350",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/30aefe21309baf037fa7341c6797cbfb79932350/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "093e71b8878be94481bd5cefb0f81a4170144ee1",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/093e71b8878be94481bd5cefb0f81a4170144ee1",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/093e71b8878be94481bd5cefb0f81a4170144ee1"
+      },
+      {
+        "sha": "62991bf0c167292d8c34f1040ce2e04a98e8c0f4",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/62991bf0c167292d8c34f1040ce2e04a98e8c0f4",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/62991bf0c167292d8c34f1040ce2e04a98e8c0f4"
+      }
+    ]
+  },
+  {
+    "sha": "62991bf0c167292d8c34f1040ce2e04a98e8c0f4",
+    "node_id": "C_kwDOMsJ0k9oAKDYyOTkxYmYwYzE2NzI5MmQ4YzM0ZjEwNDBjZTJlMDRhOThlOGMwZjQ",
+    "commit": {
+      "author": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-25T18:16:20Z"
+      },
+      "committer": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-25T18:16:20Z"
+      },
+      "message": "Modified: mode-selection of css",
+      "tree": {
+        "sha": "413d9419d317993de792684995e4b519e3f8b540",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/413d9419d317993de792684995e4b519e3f8b540"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/62991bf0c167292d8c34f1040ce2e04a98e8c0f4",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/62991bf0c167292d8c34f1040ce2e04a98e8c0f4",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/62991bf0c167292d8c34f1040ce2e04a98e8c0f4",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/62991bf0c167292d8c34f1040ce2e04a98e8c0f4/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "feb132d2adb33c3db7c46e133c8a506bfac99eb6",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/feb132d2adb33c3db7c46e133c8a506bfac99eb6",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/feb132d2adb33c3db7c46e133c8a506bfac99eb6"
+      }
+    ]
+  },
+  {
+    "sha": "093e71b8878be94481bd5cefb0f81a4170144ee1",
+    "node_id": "C_kwDOMsJ0k9oAKDA5M2U3MWI4ODc4YmU5NDQ4MWJkNWNlZmIwZjgxYTQxNzAxNDRlZTE",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-10-25T17:47:26Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-10-25T17:47:26Z"
+      },
+      "message": "Merge pull request #69 from YoungmanCH/feature/sts-trial-limit\n\nModified: professional -> trial, content",
+      "tree": {
+        "sha": "351be0d3a4578090c07ce7ad3ffe0335f99e6356",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/351be0d3a4578090c07ce7ad3ffe0335f99e6356"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/093e71b8878be94481bd5cefb0f81a4170144ee1",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnG9muCRC1aQ7uu5UhlAAA2fEQAAAsTLZymqWfJeX2R2sbAFXw\nFXD4EwKaOBcbYkA29A8CJ1ifWA2aplBzg/NZ2xy3U86eV5/shhaygbBEjwBPPEVP\nXCnmpGTx3lfZMOKh/mnIhoHux/UU4QO7rG4rLYE3Pp7R+zE0NJ8rlV3PzL6V0fV0\nt4qnChyhcYJYeN9ByRBrU0kV2nTWS2kkWFVmp/gbyQVXL9NP9Op+CGUY5vAr1IVU\nzZCnBFt6OBrtcBw3ZQNoFtpCFhupzlFwAFmfbtCtk2QLeNqLOIPUemhWgqRT0pa1\nnEr9SrjjET1uuaE747xFgg+ttpiuFwXbPp1bOzeFT4aSJLzFBUQr8ISvVFJHqd0j\nf8Ew4YMsvJwRbG0lexEc3K5R9ziY8Totl6VgveO4fcZcxqGv4l0yaTLdKbJ6TBrs\nafiao4vVnQIJj1aPV65CYFPp8dfeU5DJWVK7SJDTS3sjrLfsgwrG3C4+V0paTFyG\nPBIeFzQpQG+7AH+LJn4EbFL8liks9YQN/CAmmrHXZGlqr6XPWIE6gu31FMeInoMF\nVZVQKKqJtNwBrUXW9szswTBPjA17bbIjfvIIPZ+cGqtsR48KwTOyqWiO97HXnpFV\njzq717lLEOjt2ponMJoViqBNiLv0opIftogUH7SiEPvhvxSXnAJ06NUOAS3zx8IU\nJTOEYAFq207fhRxN7sZQ\n=XW0i\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 351be0d3a4578090c07ce7ad3ffe0335f99e6356\nparent 79dca2a038ee7ca37d62e707e9cc45653176668b\nparent feb132d2adb33c3db7c46e133c8a506bfac99eb6\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1729878446 +0900\ncommitter GitHub <noreply@github.com> 1729878446 +0900\n\nMerge pull request #69 from YoungmanCH/feature/sts-trial-limit\n\nModified: professional -> trial, content",
+        "verified_at": "2024-11-12T06:37:00Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/093e71b8878be94481bd5cefb0f81a4170144ee1",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/093e71b8878be94481bd5cefb0f81a4170144ee1",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/093e71b8878be94481bd5cefb0f81a4170144ee1/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "79dca2a038ee7ca37d62e707e9cc45653176668b",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/79dca2a038ee7ca37d62e707e9cc45653176668b",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/79dca2a038ee7ca37d62e707e9cc45653176668b"
+      },
+      {
+        "sha": "feb132d2adb33c3db7c46e133c8a506bfac99eb6",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/feb132d2adb33c3db7c46e133c8a506bfac99eb6",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/feb132d2adb33c3db7c46e133c8a506bfac99eb6"
+      }
+    ]
+  },
+  {
+    "sha": "feb132d2adb33c3db7c46e133c8a506bfac99eb6",
+    "node_id": "C_kwDOMsJ0k9oAKGZlYjEzMmQyYWRiMzNjM2RiN2M0NmUxMzNjOGE1MDZiZmFjOTllYjY",
+    "commit": {
+      "author": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-25T17:46:49Z"
+      },
+      "committer": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-25T17:46:49Z"
+      },
+      "message": "Modified: professional -> trial, content",
+      "tree": {
+        "sha": "351be0d3a4578090c07ce7ad3ffe0335f99e6356",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/351be0d3a4578090c07ce7ad3ffe0335f99e6356"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/feb132d2adb33c3db7c46e133c8a506bfac99eb6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/feb132d2adb33c3db7c46e133c8a506bfac99eb6",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/feb132d2adb33c3db7c46e133c8a506bfac99eb6",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/feb132d2adb33c3db7c46e133c8a506bfac99eb6/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "28aff93f0df926e50d32060369eb40a3eeaef65a",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/28aff93f0df926e50d32060369eb40a3eeaef65a",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/28aff93f0df926e50d32060369eb40a3eeaef65a"
+      }
+    ]
+  },
+  {
+    "sha": "79dca2a038ee7ca37d62e707e9cc45653176668b",
+    "node_id": "C_kwDOMsJ0k9oAKDc5ZGNhMmEwMzhlZTdjYTM3ZDYyZTcwN2U5Y2M0NTY1MzE3NjY2OGI",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-10-25T17:10:02Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-10-25T17:10:02Z"
+      },
+      "message": "Merge pull request #68 from YoungmanCH/feature/sts-trial-limit\n\nDeleted: /signIn",
+      "tree": {
+        "sha": "e099316dd81abe5435a5ad39cb1e71dbd503cc26",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/e099316dd81abe5435a5ad39cb1e71dbd503cc26"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/79dca2a038ee7ca37d62e707e9cc45653176668b",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnG9DqCRC1aQ7uu5UhlAAAk34QAJFdZFUdTHTGS5AsZJpmDD8B\nK6CmsYACvxGlI1c5WNKljkj3grX751nJAmZ4BfaqD2qKh197TwAfF0ftSozlTk2u\nin4/WxaYh4PzTxdBn5y8tDXPOtGNhDglypXcz+P90ROFUvKTmASRpZHNGqQ5liDG\nL5cEkMMo7vpaQ8+rAKhI1hsmS96XMHTMFqm691Zm0+oocDNBvC7jwUij0xWmLmOp\nkYFi0mbtdd2jfc/C7ztkNbhtoR3WoFrq00ip58VTNQuHcbaq/asFbIpNwe9Abu2N\ng8pFR25uXm3qeH8/DQeGNGFGci9kfKNrwZLYxAWDBGWLbGc1Rm516Xl3NQbxoDyw\nA7BSIcZFOXEaL4rC+bFwF0/PkUw+KvH+kwD5Hgfl1ru2jNc+94UL/hZyuZFkWYB1\nG0JcgeI0Ds5ERnDqZyDVVluPMyPUdPbUGEsPS0HkX57uWdqtf+ixlVWFVjZPxy3d\npdFjvlP1tywGBUiNfS1CfRdibCKSfsLcNx3Hr4BL5mGKhvXMd8Fh7HUlLMEMxeAp\nkSczx2QWHMM1QwJrkW5eOtJfUv6xQIYCNDphzrp7SlibfnwWlL6FuXzID6mA3CNA\nhlGoKh/cKdAHhIyadm/x91I8+bT7VtdukbUrdMRwueZhsIqlVq9ubA3PgSGr6Fy2\nKoHqGZhEe0LTCTIWlbFr\n=9Yhr\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree e099316dd81abe5435a5ad39cb1e71dbd503cc26\nparent b641d35767e93b4d4e25e87ac915c23402d1a984\nparent 28aff93f0df926e50d32060369eb40a3eeaef65a\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1729876202 +0900\ncommitter GitHub <noreply@github.com> 1729876202 +0900\n\nMerge pull request #68 from YoungmanCH/feature/sts-trial-limit\n\nDeleted: /signIn",
+        "verified_at": "2024-11-12T06:37:00Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/79dca2a038ee7ca37d62e707e9cc45653176668b",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/79dca2a038ee7ca37d62e707e9cc45653176668b",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/79dca2a038ee7ca37d62e707e9cc45653176668b/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b641d35767e93b4d4e25e87ac915c23402d1a984",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/b641d35767e93b4d4e25e87ac915c23402d1a984",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/b641d35767e93b4d4e25e87ac915c23402d1a984"
+      },
+      {
+        "sha": "28aff93f0df926e50d32060369eb40a3eeaef65a",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/28aff93f0df926e50d32060369eb40a3eeaef65a",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/28aff93f0df926e50d32060369eb40a3eeaef65a"
+      }
+    ]
+  },
+  {
+    "sha": "28aff93f0df926e50d32060369eb40a3eeaef65a",
+    "node_id": "C_kwDOMsJ0k9oAKDI4YWZmOTNmMGRmOTI2ZTUwZDMyMDYwMzY5ZWI0MGEzZWVhZWY2NWE",
+    "commit": {
+      "author": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-25T17:09:17Z"
+      },
+      "committer": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-25T17:09:17Z"
+      },
+      "message": "Deleted: /signIn",
+      "tree": {
+        "sha": "e099316dd81abe5435a5ad39cb1e71dbd503cc26",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/e099316dd81abe5435a5ad39cb1e71dbd503cc26"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/28aff93f0df926e50d32060369eb40a3eeaef65a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/28aff93f0df926e50d32060369eb40a3eeaef65a",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/28aff93f0df926e50d32060369eb40a3eeaef65a",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/28aff93f0df926e50d32060369eb40a3eeaef65a/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b641d35767e93b4d4e25e87ac915c23402d1a984",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/b641d35767e93b4d4e25e87ac915c23402d1a984",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/b641d35767e93b4d4e25e87ac915c23402d1a984"
+      }
+    ]
+  },
+  {
+    "sha": "b641d35767e93b4d4e25e87ac915c23402d1a984",
+    "node_id": "C_kwDOMsJ0k9oAKGI2NDFkMzU3NjdlOTNiNGQ0ZTI1ZTg3YWM5MTVjMjM0MDJkMWE5ODQ",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-10-25T17:06:55Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-10-25T17:06:55Z"
+      },
+      "message": "Merge pull request #67 from YoungmanCH/frontend/pages/home/tomoki\n\nFix the design of play button and add redirecting functions.",
+      "tree": {
+        "sha": "3ba2e5f2b2dd6fd8bec5f17e91c1d191f696663b",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/3ba2e5f2b2dd6fd8bec5f17e91c1d191f696663b"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/b641d35767e93b4d4e25e87ac915c23402d1a984",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnG9AvCRC1aQ7uu5UhlAAA6CwQAIEp7Ozqz9FxsvBANEctrGm2\naRidQkrTCb9J8cbk8rCXwmA/HQL/f8/3yrYjGTJCQlo4eSt4BtZRb8/y4DGQw+am\nym/C7j+i/9rui8ferfUFcTDrEdSRE3uPIboiPWa1HVbZavESOShdNfg94EYOKh9Q\nK/sy6ab78EH2Zb61hTf8zRqhlXwrWKU4gKtjI0nfMM+vkFokKztGaRjh64f0JnqK\neIPGwvVfv/C9Ef2TB3objZo80I6Oy/GdJE5jtHIqC//0BN++k3UEXckcgYsNc7ZP\n0SzGG7m1sJRHm3DDvZjXYEywu5O0TYiiecKMt+Gm53VmuvZPkGdlGWYn+MKQOHCa\ntMpBp3OxUUMdgUOg+RPYyAbqZB3MZlrHxWt36yJXE9xtPp5NY2KjTyUaS4g8eN5e\ntNsTLaWzpgdDh4rMYmtO4wbXOQdjv9bnKsWRxTN+HTS/WG2cT9P1Yn1OEkFn9Bgp\nC7aMRnN6oBV4ffrIARj6DBgHYkdUmN6jEihfmcVufGGJWy1YRoTBEsTPljEsFW5g\nZt+JzsCykA0azdHohJThPllhlnqMw6pZHSjJUHUvJ1L/mshWIXXnaZp08SLLPgxG\n8bdsTYLBXapFlqg60QI52yROSzbuexZJD17fqQLdFxqJThh3+0C4EbmOFIqUpmMr\nOO+6s5LkM3eron2YhM9o\n=TbH3\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 3ba2e5f2b2dd6fd8bec5f17e91c1d191f696663b\nparent 00c30101b1493c85a27f1bc3a3df7bc18594273d\nparent cae9070e6a2d3d19a515aefa51a258b513c0c462\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1729876015 +0900\ncommitter GitHub <noreply@github.com> 1729876015 +0900\n\nMerge pull request #67 from YoungmanCH/frontend/pages/home/tomoki\n\nFix the design of play button and add redirecting functions.",
+        "verified_at": "2024-11-12T06:37:00Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/b641d35767e93b4d4e25e87ac915c23402d1a984",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/b641d35767e93b4d4e25e87ac915c23402d1a984",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/b641d35767e93b4d4e25e87ac915c23402d1a984/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "00c30101b1493c85a27f1bc3a3df7bc18594273d",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/00c30101b1493c85a27f1bc3a3df7bc18594273d",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/00c30101b1493c85a27f1bc3a3df7bc18594273d"
+      },
+      {
+        "sha": "cae9070e6a2d3d19a515aefa51a258b513c0c462",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/cae9070e6a2d3d19a515aefa51a258b513c0c462",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/cae9070e6a2d3d19a515aefa51a258b513c0c462"
+      }
+    ]
+  },
+  {
+    "sha": "00c30101b1493c85a27f1bc3a3df7bc18594273d",
+    "node_id": "C_kwDOMsJ0k9oAKDAwYzMwMTAxYjE0OTNjODVhMjdmMWJjM2EzZGY3YmMxODU5NDI3M2Q",
+    "commit": {
+      "author": {
+        "name": "Tsubasa Youngman",
+        "email": "61394223+YoungmanCH@users.noreply.github.com",
+        "date": "2024-10-25T17:05:22Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-10-25T17:05:22Z"
+      },
+      "message": "Merge pull request #66 from YoungmanCH/feature/sts-trial-limit\n\nAdded: audio recording time limit 60seconds",
+      "tree": {
+        "sha": "d32f38081dd579fd934afbf809131533691ceee1",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/d32f38081dd579fd934afbf809131533691ceee1"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/00c30101b1493c85a27f1bc3a3df7bc18594273d",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnG8/SCRC1aQ7uu5UhlAAAsv8QAFksas0mXD4Vok7dl0iUpxyG\nSIu40CNGAi8WVhwYRWNiVsdoLY7zMHyz9imNSXM55chZRTNF6mb/QXBcMFuxOnQh\njTG6+jcbVkRaappK/pypvCybqIMdTJmGLGOLZaJzvZF2PV/GEL9o1SsbIN6+1v7u\nbGp7HOIjdRz8JPif9qEHgk1iPkJGjamge614HkRsj1sBhIdo72Zw0+tBSepOs1jN\nL8MUhKHp434anH6MBmHDo2u356z1g8JJWRlJv1GfD7uH/TVBKfgksd9fTAPAE2AU\nP5wzFtHQV8LIPLMoEBstu4oQ5qllrX2X+f5U32CY8e918dZwB2NBHogf4KUadr63\nffkfRyg+N/U30jMvDVoLtRX2kPAXaa7yFWtfu15xCwTphW1w2tpiQHydRKaPB2Od\n04rGyZa8xk90L1ywZW6RNt4+ANCdC06JZSjEIbpLrhDQEsUQvNGiHTkxuDJt+blo\nN+Hl1um6MkYy/4XY+YxABSxPNghCSUymxbensfCIMP92a/ego7fWThYXzS0UqBdJ\nBIrSHjilriV8Z0OZQ54yt+JW64lDNqtuYAsd9FaWWyIYY3Dl7AUTEZzpMVOiqjSy\nhrf1z0Ez/S/8teOq7D8CoVXgDXUmJuXC62Yf+PMMnDUBwO2gtCiKF19GMX9oRz4m\nKq4vHKDOYtvaF7Shu6g3\n=1LQr\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree d32f38081dd579fd934afbf809131533691ceee1\nparent 536aea0084e61440d770d18a7c58551396dc633f\nparent 03a48f1c8ec7727ebda0c58c78a6b61306223e33\nauthor Tsubasa Youngman <61394223+YoungmanCH@users.noreply.github.com> 1729875922 +0900\ncommitter GitHub <noreply@github.com> 1729875922 +0900\n\nMerge pull request #66 from YoungmanCH/feature/sts-trial-limit\n\nAdded: audio recording time limit 60seconds",
+        "verified_at": "2024-11-12T06:37:00Z"
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/00c30101b1493c85a27f1bc3a3df7bc18594273d",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/00c30101b1493c85a27f1bc3a3df7bc18594273d",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/00c30101b1493c85a27f1bc3a3df7bc18594273d/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "536aea0084e61440d770d18a7c58551396dc633f",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/536aea0084e61440d770d18a7c58551396dc633f",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/536aea0084e61440d770d18a7c58551396dc633f"
+      },
+      {
+        "sha": "03a48f1c8ec7727ebda0c58c78a6b61306223e33",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/03a48f1c8ec7727ebda0c58c78a6b61306223e33",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/03a48f1c8ec7727ebda0c58c78a6b61306223e33"
+      }
+    ]
+  },
+  {
+    "sha": "03a48f1c8ec7727ebda0c58c78a6b61306223e33",
+    "node_id": "C_kwDOMsJ0k9oAKDAzYTQ4ZjFjOGVjNzcyN2ViZGEwYzU4Yzc4YTZiNjEzMDYyMjNlMzM",
+    "commit": {
+      "author": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-25T17:04:59Z"
+      },
+      "committer": {
+        "name": "YoungmanCH",
+        "email": "tsubasa22business@gmail.com",
+        "date": "2024-10-25T17:04:59Z"
+      },
+      "message": "Added: audio recording time limit 60seconds",
+      "tree": {
+        "sha": "d32f38081dd579fd934afbf809131533691ceee1",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/trees/d32f38081dd579fd934afbf809131533691ceee1"
+      },
+      "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/git/commits/03a48f1c8ec7727ebda0c58c78a6b61306223e33",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/03a48f1c8ec7727ebda0c58c78a6b61306223e33",
+    "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/03a48f1c8ec7727ebda0c58c78a6b61306223e33",
+    "comments_url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/03a48f1c8ec7727ebda0c58c78a6b61306223e33/comments",
+    "author": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YoungmanCH",
+      "id": 61394223,
+      "node_id": "MDQ6VXNlcjYxMzk0MjIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61394223?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YoungmanCH",
+      "html_url": "https://github.com/YoungmanCH",
+      "followers_url": "https://api.github.com/users/YoungmanCH/followers",
+      "following_url": "https://api.github.com/users/YoungmanCH/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YoungmanCH/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YoungmanCH/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YoungmanCH/subscriptions",
+      "organizations_url": "https://api.github.com/users/YoungmanCH/orgs",
+      "repos_url": "https://api.github.com/users/YoungmanCH/repos",
+      "events_url": "https://api.github.com/users/YoungmanCH/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YoungmanCH/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "66040bc5a3d417feb60e4344da132665ac70a52f",
+        "url": "https://api.github.com/repos/YoungmanCH/LiveTrancer/commits/66040bc5a3d417feb60e4344da132665ac70a52f",
+        "html_url": "https://github.com/YoungmanCH/LiveTrancer/commit/66040bc5a3d417feb60e4344da132665ac70a52f"
+      }
+    ]
+  }
+]
