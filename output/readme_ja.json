@@ -1,0 +1,47 @@
+{
+    "title": "LiveTrancer",
+    "official_website": "https://livetrancer.com",
+    "summary": "LiveTrancer は、リアルタイムで音声入力を要約し、要約された内容を音声とテキストの両方でリアルタイムに出力する Web アプリケーションです。このアプリは、会議やプレゼンテーション、カスタマーサポート、学習環境など、さまざまなシーンでの音声情報を迅速かつ簡潔に把握するために設計されています。",
+    "features": {
+        "audio_input": "デバイスのマイクを通じて音声をキャプチャし、リアルタイムで処理します。",
+        "summary_processing": "キャプチャした音声を Google STT を利用して要約し、簡潔な内容に変換します。",
+        "real_time_output": "要約結果をテキストと音声で同時にリアルタイムで出力します。",
+        "cross_device_support": "PC とスマートフォンの両方で使用可能。",
+        "tech_stack": {
+            "frontend": [
+                "Next.js",
+                "TypeScript"
+            ],
+            "backend": [
+                "TypeScript",
+                "Flask",
+                "Python"
+            ],
+            "data_communication": "WebSocket",
+            "voice_processing": [
+                "Google STT",
+                "Google TTS"
+            ],
+            "voice_modification": "voicevox",
+            "text_modification": "ChatGPT 4-omni or ELYZA",
+            "deploy": [
+                "AWS",
+                "EmailJS"
+            ]
+        }
+    },
+    "cases": {
+        "business_meeting": "長時間の会議をリアルタイムで要約し、重要なポイントを迅速に把握。",
+        "educational_setting": "講義内容を要約し、学生が簡潔に理解できるようサポート。",
+        "customer_support": "顧客対応の際に、重要な情報を要約して効率的に対応。"
+    },
+    "memo": {
+        "update": "STT の機能を実装しました。",
+        "instruction": {
+            "step1": "Client 側のサーバーを立ち上げる。`cd LiveTrancer/live-trancer/`で移動した後、`npm run dev`を実行してください。",
+            "step2": "Server 側のサーバーを立ち上げる。`cd microservices/services/transcription`で移動した後、`npm run dev`を実行してください。",
+            "step3": "マイクのボタンをタップし、transcription ページに移動。",
+            "step4": "Start recording!"
+        }
+    }
+}
