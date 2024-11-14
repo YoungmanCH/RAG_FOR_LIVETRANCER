@@ -3,10 +3,10 @@ import os
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
-from .pinecone.pinecone import process_pinecone
+from .pinecone.pinecone_handler import process_pinecone
 
 def test():
-   process_pinecone()
+    process_pinecone()
   
 def main():
     test()
