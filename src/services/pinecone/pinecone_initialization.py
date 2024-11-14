@@ -1,5 +1,4 @@
-import time
-from pinecone import Pinecone, ServerlessSpec, Index
+from pinecone import Pinecone
 import os
 from dotenv import load_dotenv
 
